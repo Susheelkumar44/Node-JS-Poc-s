@@ -1,0 +1,14 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "\"Sample NPM\"",
+  "main": "simpleserver.js",
+  "scripts": {
+    "dev": "nodemon simpleserver.js"
+  },
+  "author": "Susheel",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
